@@ -1,5 +1,5 @@
 {
-    "name": "xavier83ar/cakephp-spanish-inflections",
+    "name": "jacricelli/cakephp-spanish-inflections",
     "description": "Spanish Inflections plugin for CakePHP",
     "type": "cakephp-plugin",
     "version": "1.0.6",
