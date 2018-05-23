@@ -2,7 +2,7 @@
     "name": "jacricelli/cakephp-spanish-inflections",
     "description": "Spanish Inflections plugin for CakePHP",
     "type": "cakephp-plugin",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "license": "MIT",
     "require": {
         "php": ">=5.5.9",
