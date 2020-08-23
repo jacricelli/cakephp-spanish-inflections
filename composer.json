@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5.9",
-        "cakephp/cakephp": "~3.0"
+        "cakephp/cakephp": ">=3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
